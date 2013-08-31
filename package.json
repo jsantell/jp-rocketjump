@@ -1,0 +1,12 @@
+{
+  "name": "rocket-jump",
+  "fullName": "Rocket Jump",
+  "id": "jid1-vqlNgf8g9CAFJA",
+  "description": "Jumpstarting Jetpack Addons",
+  "author": "Jordan Santell",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "unpack": true,
+  "icon": "./data/icon48.png",
+  "icon64": "./data/icon64.png"
+}
